@@ -3,7 +3,7 @@ const nextConfig = {
   reactStrictMode: true,
   images: {
     loader: "akamai",
-    path: "",
+    path: "https://eki-market.web.app/assets/",
   },
 };
 
