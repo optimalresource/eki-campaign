@@ -1,13 +1,6 @@
-import { Icon, InlineIcon } from "@iconify/react";
-import Image from "next/image";
-import Link from "next/link";
-import {
-  motion,
-  useTransform,
-  useScroll,
-  MotionProps,
-  Variants,
-} from "framer-motion";
+import { Icon } from "@iconify/react";
+import Image from "next/legacy/image";
+import { motion, MotionProps, Variants } from "framer-motion";
 import { useState, useEffect } from "react";
 import Modal from "./Modal";
 
