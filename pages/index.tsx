@@ -1,5 +1,5 @@
 import { Icon, InlineIcon } from "@iconify/react";
-import Image from "next/image";
+import Image from "next/legacy/image";
 import Layout from "../components/Layout";
 import { motion } from "framer-motion";
 import { useRouter } from "next/router";
@@ -34,10 +34,10 @@ const IndexPage = () => {
             </motion.button>
           </div>
           <Image
+            alt="People smiling"
             src="/assets/peoplegif.gif"
             width={800}
             height={500}
-            alt="People smiling"
             layout="intrinsic"
           />
         </div>
