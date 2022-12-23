@@ -10,10 +10,10 @@ const IndexPage = () => {
     <>
       <Layout title="Home | Eki Marketplace">
         <div className="max-w-[1768px] font-bold w-[90%] my-0 mt-4 mx-auto text-center flex flex-col items-center">
-          <h1 className="text-3xl md:text-5xl font-['PlayfairDisplay-Black'] font-black leading-[60px]">
+          <h1 className="text-3xl md:text-5xl font-['PlayfairDisplay-Black'] font-black leading-[40px] sm:leading-[60px]">
             Welcome to the
           </h1>
-          <h1 className="text-3xl md:text-5xl font-['PlayfairDisplay-Black'] font-black leading-[60px] flex items-center text-center flex-wrap max-w-[90%] justify-center">
+          <h1 className="text-3xl md:text-5xl font-['PlayfairDisplay-Black'] font-black leading-[40px] sm:leading-[60px] flex items-center text-center flex-wrap max-w-[90%] justify-center">
             <Icon icon="la:slack-hash" />1 Biggest&nbsp;
             <span className="text-[#09B82E]">African</span> Wholesale&nbsp;
             <span className="text-[#09B82E]">Marketplace</span>

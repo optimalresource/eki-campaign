@@ -98,9 +98,9 @@ const Modal = ({ closeModal, cart = [] }: Props) => {
       <div className="absolute w-full no-scrollbar flex items-center justify-center">
         <ClickAwayListener
           onClickAway={closeModal}
-          className="w-[100%] sm:w-[80%]"
+          className="w-[90%] sm:w-[80%]"
         >
-          <div className="flex w-full bg-[url('/assets/Light_Mode_Success_Message_1.gif')] bg-center bg-no-repeat  h-[100vh] flex-col items-center justify-between relative overflow-auto no-scrollbar">
+          <div className="flex w-full bg-[#fff] md:bg-[url('/assets/Light_Mode_Success_Message_1.gif')] bg-center bg-no-repeat  h-[100vh] flex-col items-center justify-between relative overflow-auto no-scrollbar">
             {!success && (
               <>
                 {!loading && (
