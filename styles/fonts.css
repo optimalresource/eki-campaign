@@ -1,0 +1,60 @@
+@font-face {
+  font-family: "PlayfairDisplay-Black", -apple-system, BlinkMacSystemFont,
+    Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans,
+    Helvetica Neue, sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  src: url("../fonts/PlayfairDisplay-Black.ttf") format("ttf");
+}
+@font-face {
+  font-family: "PlayfairDisplay-Bold", -apple-system, BlinkMacSystemFont,
+    Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans,
+    Helvetica Neue, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/PlayfairDisplay-Bold.otf") format("otf");
+}
+@font-face {
+  font-family: "PlayfairDisplay-Regular", -apple-system, BlinkMacSystemFont,
+    Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans,
+    Helvetica Neue, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/PlayfairDisplay-Regular.otf") format("otf");
+}
+@font-face {
+  font-family: "Poppins-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Poppins-Regular.ttf") format("ttf");
+}
+@font-face {
+  font-family: "Poppins-SemiBold";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/Poppins-SemiBold.ttf") format("ttf");
+}
+@font-face {
+  font-family: "Poppins-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/Poppins-Bold.ttf") format("ttf");
+}
+@font-face {
+  font-family: "DMSans-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/DMSans-Regular.ttf") format("ttf");
+}
+@font-face {
+  font-family: "DMSans-Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/DMSans-Medium.ttf") format("ttf");
+}
+@font-face {
+  font-family: "DMSans-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/DMSans-Bold.ttf") format("ttf");
+}
