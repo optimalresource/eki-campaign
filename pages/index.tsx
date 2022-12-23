@@ -38,6 +38,7 @@ const IndexPage = () => {
             width={800}
             height={500}
             alt="People smiling"
+            layout="intrinsic"
           />
         </div>
       </Layout>
